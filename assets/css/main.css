@@ -1592,3 +1592,17 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+		.links{
+			margin-left: 2rem;
+		}
+		.works-img img{
+			display: block;
+			margin-left: auto;
+    	margin-right: auto;
+			width: 10rem;
+			height: 10rem;
+		}
+		.works-img h3{
+			text-align: center;
+		}
